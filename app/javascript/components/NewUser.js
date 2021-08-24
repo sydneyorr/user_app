@@ -11,6 +11,7 @@ const NewUser = () => {
       <input name="user[age]"/>
       <button type = "submit">Add</button>
       </form>
+      <a href="/">Back</a>
     </div>
   );
 };
